@@ -9,63 +9,44 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Electrical Engineering, The Hong Kong Polytechnic University, 2022 - present
-* M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021
-* B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2014 - 2018
+* Ph.D. in Mathematics,The Ohio State University, 2021 - present
+* B.Eng. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021
 {: .text-justify}
 
 ---
 
 ## Experience
 
-* Visiting Ph.D., National University of Singapore, Aug. 2024 - Nov. 2024
-* Junior Engineer, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
-* University of California, Berkeley, Jul. 2018 - Aug. 2018
+* University of California, Berkeley, Jul. 2019 - May. 2020
 {: .text-justify}
 
 ---
 
-## Academic Service
 
-* Reviewer -
-<br>*IEEE Transactions on Power Systems*
-<br>*IEEE Transactions on Smart Grid*
-<br>*IEEE Transactions on Consumer Electronics*
-<br>*IEEE Power Engineering Letters*
-<br>*Journal of Modern Power Systems and Clean Energy*
-<br>*Electric Power Systems Research*
-<br>*Journal of Energy Engineering*
-<br>*Energy Conversion and Economics*
-<br>*IEEE ISGT-Asia 2022*
-<br>*China International Youth Conference on Electrical Engineering 2023*
-{: .text-justify}
-
----
 
 ## Teaching Service
 
 * Teaching Assistant -
-<br>1. *Electrical Energy Systems Fundamentals*, Undergraduate Course, EEE PolyU, 2024
-<br>2. *Energy Policy and Management*, Undergraduate Course, EEE PolyU, 2024
-<br>3. *Energy Policy and Management*, Undergraduate Course, EE PolyU, 2023
-<br>4. *Systems and Control*, Undergraduate Course, EE PolyU, 2022
+<br>1. Grader for MATH 6601/6602, graduate Course, OSU, 2022
+<br>2. Recitation instructor for MATH 2153 (Calculus III), Undergraduate Course, OSU, 2023
+<br>3. Recitation instructor for MATH 1172 (Engineering Calculus), Undergraduate Course, OSU, 2024
 {: .text-justify}
 
 ---
 
-## Academic Awards
-
-* Outstanding Master's Thesis of Fujian Province, Nov. 2022
-* High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
-* Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
+##  Awards
+* SIAM Travel Awards, 2022&2024
+* Special Graduate Associate (Departmental research fellowship), OSU, 2023&2024
+* University Fellowship (Graduate School Fellowship), OSU, 2021
+* HK Government Talent Development Scholarship, CUHK, 2021
+* University Dean’s List & College Head’s list & Mathematics Scholarship, CUHK, 2017-2021
 {: .text-justify}
 
 
 ---
 
 ## Professional Skills
-
+* Programming: Python, Mathematica, MATLAB, Fortran, C++
+* Softwares: MPI, OpenMP, Nektar++, Ansys Fluent, Gmesh
 * Machine learning: Pytorch, Keras, Tensorflow
-* Programming: Python, C, MATLAB, MCU(STM32)
-* Power System-related: PSD-BPA, PSASP
 {: .text-justify}
