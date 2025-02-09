@@ -17,5 +17,3 @@ My research interests broadly lie in Numerical Analysis, Partial Differential Eq
 I'm co-organizing the Student Computational Math Seminar at OSU. Our webpage is https://u.osu.edu/studentcomputationalmathseminar/. Feel free to contact me if you want to give a talk.
 
 I have a wide variety of hobbies such as badminton, Chinese flute and vedio games. I'm a fan of Chengdu Rongcheng FC. 
----
-<a href="https://info.flagcounter.com/MXCA"><img src="https://s11.flagcounter.com/count/MXCA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
