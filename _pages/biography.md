@@ -11,16 +11,10 @@ redirect_from:
 
 * Ph.D. in Mathematics,The Ohio State University, 2021 - present
 * B.Eng. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021
+* Exchange student at University of California, Berkeley, Jul. 2019 - May. 2020
 {: .text-justify}
 
----
-
-## Experience
-
-* University of California, Berkeley, Jul. 2019 - May. 2020
-{: .text-justify}
-
----
+ ---
 
 
 
