@@ -3,6 +3,8 @@ layout: archive
 title: "talks"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ##Invited Talks at Conference Minisymposia:<br>
