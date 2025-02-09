@@ -9,11 +9,11 @@
 locale                   : "zh-CN"
 title                    : "Qifan Chen"
 title_separator          : "-"
-name                     : &name "Qifan Chen (陈启凡)"
-description              : &description "Qifan Chen, Electrical Engineering, The Hong Kong Polytechnic University"
-url                      : https://chqf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qifan Chen (陈麒帆)"
+description              : &description "Qifan Chen, Math, The Ohio State University"
+url                      : https://qifan-chen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ChQf/ChQf.github.io"
+repository               : "Qifan-CHEN/qifan-chen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qifan Chen (陈启凡)"
+  name             : "Qifan Chen (陈麒帆)"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Electrical Engineering, The Hong Kong Polytechnic University"
-  location         : "Kowloon, Hong Kong SAR"
+  bio              : "Ph.D. candidate in Mathematics, The Ohio State University"
+  location         : "Columbus, Ohio State, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gnaW8bEAAAAJ&hl=en-US"  #"http://yourfullgooglescholarurl.com"
-  email            : "qf_chen@foxmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Qifan-Chen-8"
+  googlescholar    : "https://scholar.google.com/citations?user=ipakKyoAAAAJ&hl=en"  #"http://yourfullgooglescholarurl.com"
+  email            : "chen.11010@osu.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Qifan-Chen-2"
   uri              :
   bitbucket        :
   codepen          :
