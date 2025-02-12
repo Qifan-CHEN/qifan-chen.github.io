@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Arpit Babbar, Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", under review at  Journal of Computational Physics , available upon enquiry.<br>
+1. Arpit Babbar, Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", under review at  Journal of Computational Physics, arXiv preprint: 2502.07517 [[Link]](https://arxiv.org/abs/2502.07517){:target="_blank"}<br>
 2. Lei Wei, Qifan Chen, Yinhua Xia, “An efficient central discontinuous Galerkin scheme for hyperbolic conservation laws”, submitted, available upon enquiry.<br>
 3. Qifan Chen, Zheng Sun, and Yulong Xing, " The Runge–Kutta discontinuous Galerkin method with stage-dependent polynomial spaces for hyperbolic conservation laws," <b> Journal of Computational Physics</b>,523:113654, 2025.  [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0021999124009021){:target="_blank"}<br>
 4. Zhongshu Xu, Yuan Chen,  Qifan Chen , and Dongbin Xiu, "Modeling unknown stochastic dynamical system via autoencoder," <b>Journal of Machine Learning for Modeling and Computing</b>,  5(4):23–52, 2024.  [[Link]](https://www.dl.begellhouse.com/journals/558048804a15188a,7dd2ba1c3481309f,1fa59aa90d1bc10a.html){:target="_blank"}<br>
