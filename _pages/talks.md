@@ -16,7 +16,7 @@ The 7th Annual Meeting of SIAM Central States Section, Oklahoma State University
  
    ---
 
-Invited Talks at Seminars/Colloquia:<br>  
+Invited Talks at Seminars:<br>  
 Departmental Seminar, Southern University of Science and Technology, 12/2024<br>
 Departmental Seminar, The Chinese University of Hong Kong, 05/2024<br>
 SIAM Student Chapter Seminar, University of Wisconsin-Madison,  03/2023<br>
