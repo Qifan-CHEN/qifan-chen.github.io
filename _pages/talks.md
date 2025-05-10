@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 Invited Talks at Conference Minisymposia:<br>  
+Engineering Mechanics Institute 2025 Conference (EMI 2025), University of California  Irvine, 05/2025.<br>
 2025 SIAM Southeastern Atlantic Section Meeting, University of Tennessee, Knoxville, 03/2025.<br>
 2025 SIAM Conference on Computational Science and Engineering, Fort Worth, 03/2025.<br>
 The 9th Annual Meeting of SIAM Central States Section, University of Missouri-Kansas City, 10/2024 <br>
