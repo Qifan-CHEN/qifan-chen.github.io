@@ -4,7 +4,7 @@ title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
-6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, Dongbin Xiu, "Targeted digital twin via flow map learning and its application to fluid dynamics"<br>
+6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, Dongbin Xiu, "Targeted digital twin via flow map learning and its application to fluid dynamics",submitted and available upon enquiry.<br>
 5. Arpit Babbar, Qifan Chen, "Compact Runge-Kutta Flux Reconstruction for Hyperbolic Conservation Laws with admissibility preservation", minor revision at Journal of Scientific Computing
 , arXiv preprint: 2502.07517 [[Link]](https://arxiv.org/abs/2502.07517){:target="_blank"}<br>
 4. Lei Wei, Qifan Chen, and Yinhua Xia, "An efficient central discontinuous Galerkin scheme for
