@@ -24,13 +24,14 @@ redirect_from:
 <br>1. Grader for MATH 6601/6602, graduate Course, OSU, 2022
 <br>2. Recitation instructor for MATH 2153 (Calculus III), Undergraduate Course, OSU, 2023
 <br>3. Recitation instructor for MATH 1172 (Engineering Calculus), Undergraduate Course, OSU, 2024
+<br>4. Recitation instructor for MATH 1151 (Calculus I), Undergraduate Course, OSU, 2025
 {: .text-justify}
 
 ---
 
 ##  Awards
-* SIAM Travel Awards, 2022&2024
-* Special Graduate Associate (Departmental research fellowship), OSU, 2023&2024
+* SIAM Travel Awards, 2022&2024&2025
+* Special Graduate Associate (Departmental research fellowship), OSU, 2023&2024&2025
 * University Fellowship (Graduate School Fellowship), OSU, 2021
 * HK Government Talent Development Scholarship, CUHK, 2021
 * University Dean’s List & College Head’s list & Mathematics Scholarship, CUHK, 2017-2021
@@ -40,7 +41,7 @@ redirect_from:
 ---
 
 ## Professional Skills
-* Programming: Python, Mathematica, MATLAB, Fortran, C++
+* Programming: Python, Mathematica, MATLAB, Fortran
 * Softwares: MPI, OpenMP, Nektar++, Ansys Fluent, Gmesh
 * Machine learning: Pytorch, Keras, Tensorflow
 {: .text-justify}
