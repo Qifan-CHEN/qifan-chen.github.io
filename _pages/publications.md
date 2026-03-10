@@ -4,7 +4,7 @@ title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
-7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, submitted.
+7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, submitted, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"} .<br>
 6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics, submitted, arXiv preprint: 2510.07549 [[Link]](https://arxiv.org/abs/2510.07549){:target="_blank"} .<br>
 5. Arpit Babbar and Qifan Chen, Compact Runge-Kutta flux reconstruction for hyperbolic conservation laws with admissibility preservation, Journal of Scientific Computing,  105:91, 2025. [[Link]](https://link.springer.com/article/10.1007/s10915-025-03118-2){:target="_blank"}<br>
 4. Lei Wei, Qifan Chen, and Yinhua Xia, An efficient central discontinuous Galerkin scheme for
