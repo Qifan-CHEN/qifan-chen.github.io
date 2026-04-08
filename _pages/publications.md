@@ -6,7 +6,7 @@ author_profile: true
 ---
 8.Qifan Chen, Zheng Sun, and Yulong Xing,  Implicit Runge–Kutta methods for hyperbolic problems with generalized method of lines, submitted.<br>
 7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, submitted, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"}<br>
-6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics, submitted, arXiv preprint: 2510.07549 [[Link]](https://arxiv.org/abs/2510.07549){:target="_blank"} .<br>
+6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics,Journal of Computational Physics, accepted, arXiv preprint: 2510.07549 [[Link]](https://arxiv.org/abs/2510.07549){:target="_blank"} .<br>
 5. Arpit Babbar and Qifan Chen, Compact Runge-Kutta flux reconstruction for hyperbolic conservation laws with admissibility preservation, Journal of Scientific Computing,  105:91, 2025. [[Link]](https://link.springer.com/article/10.1007/s10915-025-03118-2){:target="_blank"}<br>
 4. Lei Wei, Qifan Chen, and Yinhua Xia, An efficient central discontinuous Galerkin scheme for
 hyperbolic conservation laws, Journal of Computational Physics, 114566, 2025.  [[Link]](https://www.sciencedirect.com/science/article/pii/S0021999125008484?casa_token=8PyyoKseAPcAAAAA:qVDrAeyTMtDEYjYCWW_5zc5M0Iz8euFy95QrJdbaYyv0uAXrs6ovIq3Gh0ZGUpCaWk37qBLUXA){:target="_blank"}<br> 
