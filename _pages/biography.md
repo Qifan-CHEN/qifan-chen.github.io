@@ -9,8 +9,8 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Mathematics,The Ohio State University, 2021 - present
-* B.Sc. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021
+* Ph.D. in Mathematics,The Ohio State University, 2021 - 2026. Advisor: Yulong Xing.
+* B.Sc. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021. Final year project advisor: Prof.Jun Zou.
 * Exchange student at University of California, Berkeley, Jul. 2019 - May. 2020
 {: .text-justify}
 
@@ -30,10 +30,11 @@ redirect_from:
 ---
 
 ##  Awards
+* Gisele & Neil Robertson Mathematics Award, OSU, 2026
 * SIAM Travel Awards, 2022&2024&2025
 * Special Graduate Associate (Departmental research fellowship), OSU, 2023&2024&2025
 * University Fellowship (Graduate School Fellowship), OSU, 2021
-* HK Government Talent Development Scholarship, CUHK, 2021
+* HK Government Talent Development Scholarship, CUHK, 2019
 * University Dean’s List & College Head’s list & Mathematics Scholarship, CUHK, 2017-2021
 {: .text-justify}
 
