@@ -19,7 +19,7 @@ redirect_from:
 
 ## Teaching Service
 * University of California, Los Angeles -
-<br>1. Course instructor for Program in Computing 16A - Python with Applications,  UCLA, 2026
+<br>1. Lecture instructor for Program in Computing 16A - Python with Applications,  UCLA, 2026
 
 * The Ohio State University -
 <br>1. Grader for MATH 6601/6602, graduate Course, OSU, 2022
