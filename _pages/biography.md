@@ -11,7 +11,6 @@ redirect_from:
 
 * Ph.D. in Mathematics,The Ohio State University, 2021 - 2026. Advisor: Yulong Xing.
 * B.Sc. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021. Final year project advisor: Prof.Jun Zou.
-* Exchange student at University of California, Berkeley, Jul. 2019 - May. 2020
 {: .text-justify}
 
  ---
@@ -19,12 +18,14 @@ redirect_from:
 
 
 ## Teaching Service
+* University of California, Los Angeles -
+<br>1. Course instructor for Program in Computing 16A - Python with Applications,  UCLA, 2026
 
-* Teaching Assistant -
+* The Ohio State University -
 <br>1. Grader for MATH 6601/6602, graduate Course, OSU, 2022
-<br>2. Recitation instructor for MATH 2153 (Calculus III), Undergraduate Course, OSU, 2023
-<br>3. Recitation instructor for MATH 1172 (Engineering Calculus), Undergraduate Course, OSU, 2024
-<br>4. Recitation instructor for MATH 1151 (Calculus I), Undergraduate Course, OSU, 2025
+<br>2. Recitation instructor for MATH 2153 (Calculus III), OSU, 2023
+<br>3. Recitation instructor for MATH 1172 (Engineering Calculus),  OSU, 2024
+<br>4. Recitation instructor for MATH 1151 (Calculus I),  OSU, 2025
 {: .text-justify}
 
 ---
