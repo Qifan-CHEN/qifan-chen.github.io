@@ -4,7 +4,7 @@ title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
-9. Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer, and Xihaier Luo. Submitted to ICLR
+9. Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer, and Xihaier Luo. MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching. Submitted.
 8. Qifan Chen, Zheng Sun, and Yulong Xing.  Implicit Runge–Kutta methods for hyperbolic problems with generalized method of lines", under revision.<br>
 7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, under revision, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"}<br>
 6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics,Journal of Computational Physics, accepted, arXiv preprint: 2510.07549 [[Link]](https://arxiv.org/abs/2510.07549){:target="_blank"} .<br>
@@ -12,6 +12,6 @@ author_profile: true
 4. Lei Wei, Qifan Chen, and Yinhua Xia, An efficient central discontinuous Galerkin scheme for
 hyperbolic conservation laws, Journal of Computational Physics, 114566, 2025.  [[Link]](https://www.sciencedirect.com/science/article/pii/S0021999125008484?casa_token=8PyyoKseAPcAAAAA:qVDrAeyTMtDEYjYCWW_5zc5M0Iz8euFy95QrJdbaYyv0uAXrs6ovIq3Gh0ZGUpCaWk37qBLUXA){:target="_blank"}<br> 
 3. Qifan Chen, Zheng Sun, and Yulong Xing, The Runge–Kutta discontinuous Galerkin method with stage-dependent polynomial spaces for hyperbolic conservation laws, Journal of Computational Physics, 523:113654, 2025.  [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0021999124009021){:target="_blank"}<br>
-2. Zhongshu Xu, Yuan Chen,  Qifan Chen , and Dongbin Xiu, Modeling unknown stochastic dynamical system via autoencoder,  Journal of Machine Learning for Modeling and Computing,  5(4):23–52, 2024.  [[Link]](https://www.dl.begellhouse.com/journals/558048804a15188a,7dd2ba1c3481309f,1fa59aa90d1bc10a.html){:target="_blank"}<br>
-1. Qifan Chen , Zheng Sun, and Yulong Xing, The Runge–Kutta discontinuous Galerkin method with compact stencils for hyperbolic conservation laws,   SIAM Journal on Scientific Computing, 46(2), A1327-A1351, 2024.  [[Link]](https://epubs.siam.org/doi/abs/10.1137/23M158629X){:target="_blank"}<br>
+2. Qifan Chen , Zheng Sun, and Yulong Xing, The Runge–Kutta discontinuous Galerkin method with compact stencils for hyperbolic conservation laws,   SIAM Journal on Scientific Computing, 46(2), A1327-A1351, 2024.  [[Link]](https://epubs.siam.org/doi/abs/10.1137/23M158629X){:target="_blank"}<br>Z
+1. hongshu Xu, Yuan Chen,  Qifan Chen , and Dongbin Xiu, Modeling unknown stochastic dynamical system via autoencoder,  Journal of Machine Learning for Modeling and Computing,  5(4):23–52, 2024.  [[Link]](https://www.dl.begellhouse.com/journals/558048804a15188a,7dd2ba1c3481309f,1fa59aa90d1bc10a.html){:target="_blank"}<br>
  
