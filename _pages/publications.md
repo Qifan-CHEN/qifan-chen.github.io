@@ -4,7 +4,7 @@ title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
-9. Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer, and Xihaier Luo. MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching. Submitted, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2610.02260){:target="_blank"}<br>
+9. Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer, and Xihaier Luo. MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching, submitted, arXiv preprint: 2610.02260[[Link]](https://arxiv.org/abs/2610.02260){:target="_blank"}<br>
 8. Qifan Chen, Zheng Sun, and Yulong Xing.  Implicit Runge–Kutta methods for hyperbolic problems with generalized method of lines", under revision.<br>
 7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, under revision, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"}<br>
 6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics,Journal of Computational Physics, accepted, arXiv preprint: 2510.07549 [[Link]](https://arxiv.org/abs/2510.07549){:target="_blank"} .<br>
