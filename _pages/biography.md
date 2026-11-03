@@ -9,20 +9,20 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Mathematics,The Ohio State University, 2021 - 2026. Advisor: Yulong Xing.
-* B.Sc. in Mathematics, The Chinese University of Hong Kong, 2017 - 2021. Final year project advisor: Prof.Jun Zou.
+* Ph.D. in Mathematics, The Ohio State University, 2026. Advisor: Prof. Yulong Xing.
+* B.S. in Mathematics, The Chinese University of Hong Kong, 2021. Final-year project advisor: Prof. Jun Zou.
 {: .text-justify}
 
  ---
 
 
 
-## Teaching Service
+## Teaching Experience
 * University of California, Los Angeles -
 <br>1. Lecture instructor for Program in Computing 16A - Python with Applications,  UCLA, 2026
 
 * The Ohio State University -
-<br>1. Grader for MATH 6601/6602, graduate Course, OSU, 2022
+<br>1. Grader for MATH 6601/6602 graduate qualify course, OSU, 2022
 <br>2. Recitation instructor for MATH 2153 (Calculus III), OSU, 2023
 <br>3. Recitation instructor for MATH 1172 (Engineering Calculus),  OSU, 2024
 <br>4. Recitation instructor for MATH 1151 (Calculus I),  OSU, 2025
@@ -40,10 +40,3 @@ redirect_from:
 {: .text-justify}
 
 
----
-
-## Professional Skills
-* Programming: Python, Mathematica, MATLAB, Fortran
-* Softwares: MPI, OpenMP, Nektar++, Ansys Fluent, Gmesh
-* Machine learning: Pytorch, Keras, Tensorflow
-{: .text-justify}
