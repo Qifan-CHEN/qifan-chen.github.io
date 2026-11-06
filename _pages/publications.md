@@ -6,7 +6,7 @@ author_profile: true
 ---
 9. Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer, and Xihaier Luo. MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching, submitted, arXiv preprint: 2610.02260[[Link]](https://arxiv.org/abs/2610.02260){:target="_blank"}<br>
 8. Qifan Chen, Zheng Sun, and Yulong Xing.  Implicit Runge–Kutta methods for hyperbolic problems with generalized method of lines, under revision.<br>
-7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, Journal of Computational Physics, accepted, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"}<br>
+7. Xinyu Liu, Qifan Chen, and Dongbin Xiu, Numerical Approach for On-the-Fly Active Flow Control via Flow Map Learning Method, Journal of Computational Physics, 115567, arXiv preprint: 2603.07678 [[Link]](https://arxiv.org/abs/2603.07678){:target="_blank"}<br>
 6. Qifan Chen, Zhongshu Xu, Jinjin Zhang, and Dongbin Xiu, Targeted digital twin via flow map learning and its application to fluid dynamics, Journal of Computational Physics, 560:114935, 2026. [[Link]](https://www.sciencedirect.com/science/article/pii/S0021999126002883){:target="_blank"} .<br>
 5. Arpit Babbar and Qifan Chen, Compact Runge-Kutta flux reconstruction for hyperbolic conservation laws with admissibility preservation, Journal of Scientific Computing,  105:91, 2025. [[Link]](https://link.springer.com/article/10.1007/s10915-025-03118-2){:target="_blank"}<br>
 4. Lei Wei, Qifan Chen, and Yinhua Xia, An efficient central discontinuous Galerkin scheme for
