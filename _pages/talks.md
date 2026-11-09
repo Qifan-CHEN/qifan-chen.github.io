@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 Invited Talks at Conference Minisymposia:<br>  
-SIAM Conference on Uncertainty Quantification (UQ26), Minneapolis, 03/2026<br>
+2027 SIAM Conference on Computational Science and Engineering (CSE), Pittsburgh, 02/2027.<br>
+2026 SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, 11/2026<br>
+2026 SIAM Conference on Uncertainty Quantification (UQ26), Minneapolis, 03/2026<br>
 2025 SIAM Central States Section, University of Arkansas, 10/2025 <br>
 Engineering Mechanics Institute 2025 Conference (EMI 2025), University of California  Irvine, 05/2025.<br>
 2025 SIAM Southeastern Atlantic Section Meeting, University of Tennessee, Knoxville, 03/2025.<br>
